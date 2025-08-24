@@ -1,62 +1,26 @@
 [
-  {
-    "name": "M_Neutral_Run_Start_BL_Lfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_BL_Rfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_BR_Lfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_BR_Rfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_B_Lfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_B_Rfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_FL_Lfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_FL_Rfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_FR_Lfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_FR_Rfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_F_Lfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_F_Rfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_LL_Lfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_LL_Rfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_LR_Lfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_LR_Rfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_RL_Lfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_RL_Rfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_RR_Lfoot_rootDistance"
-  },
-  {
-    "name": "M_Neutral_Run_Start_RR_Rfoot_rootDistance"
-  }
+  {"name": "M_Neutral_Run_Reface_Start_F_L_090_rootDistance.json"}
+, {"name": "M_Neutral_Run_Reface_Start_F_L_180_rootDistance.json"}
+, {"name": "M_Neutral_Run_Reface_Start_F_R_090_rootDistance.json"}
+, {"name": "M_Neutral_Run_Reface_Start_F_R_180_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_B_Lfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_B_Rfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_BL_Lfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_BL_Rfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_BR_Lfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_BR_Rfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_F_Lfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_F_Rfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_FL_Lfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_FL_Rfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_FR_Lfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_FR_Rfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_LL_Lfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_LL_Rfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_LR_Lfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_LR_Rfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_RL_Lfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_RL_Rfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_RR_Lfoot_rootDistance.json"}
+, {"name": "M_Neutral_Run_Start_RR_Rfoot_rootDistance.json"}
 ]
