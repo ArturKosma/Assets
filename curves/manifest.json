@@ -1,8 +1,12 @@
 [
   {"name": "M_Neutral_Run_Reface_Start_F_L_090_rootDistance"}
+, {"name": "M_Neutral_Run_Reface_Start_F_L_090_rootYaw"}
 , {"name": "M_Neutral_Run_Reface_Start_F_L_180_rootDistance"}
+, {"name": "M_Neutral_Run_Reface_Start_F_L_180_rootYaw"}
 , {"name": "M_Neutral_Run_Reface_Start_F_R_090_rootDistance"}
+, {"name": "M_Neutral_Run_Reface_Start_F_R_090_rootYaw"}
 , {"name": "M_Neutral_Run_Reface_Start_F_R_180_rootDistance"}
+, {"name": "M_Neutral_Run_Reface_Start_F_R_180_rootYaw"}
 , {"name": "M_Neutral_Run_Start_B_Lfoot_rootDistance"}
 , {"name": "M_Neutral_Run_Start_B_Rfoot_rootDistance"}
 , {"name": "M_Neutral_Run_Start_BL_Lfoot_rootDistance"}
