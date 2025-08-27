@@ -19,6 +19,7 @@
 , {"name": "M_Neutral_Run_Start_BR_Rfoot_rootDistance"}
 , {"name": "M_Neutral_Run_Start_F_Lfoot_rootDistance"}
 , {"name": "M_Neutral_Run_Start_F_Rfoot_rootDistance"}
+, {"name": "M_Neutral_Run_Start_F_Rfoot_rootYawAuthority"}
 , {"name": "M_Neutral_Run_Start_FL_Lfoot_rootDistance"}
 , {"name": "M_Neutral_Run_Start_FL_Rfoot_rootDistance"}
 , {"name": "M_Neutral_Run_Start_FR_Lfoot_rootDistance"}
